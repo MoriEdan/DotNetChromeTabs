@@ -12,3 +12,8 @@ the ability to reopen closed tabs and pin tabs.
 The control is extremely customizable and the individual tab pages have various settings and
 overridable methods to get your program and pages to do exactly what you want them to do.
 
+
+How it looks
+------------
+
+![alt tag](https://raw.github.com/brandonfrancis/DotNetChromeTabs/master/Example.png)
