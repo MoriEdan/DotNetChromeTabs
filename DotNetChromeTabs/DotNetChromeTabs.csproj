@@ -76,6 +76,7 @@
     <EmbeddedResource Include="TestPage.resx">
       <DependentUpon>TestPage.cs</DependentUpon>
     </EmbeddedResource>
+    <None Include="LICENCE" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
